@@ -296,27 +296,27 @@ class: center, middle
 # Round 5
 Music clips – theme tunes for 80s/90s shows
 
-Clip 1. <audio src="files/Cosby.mp3" controls="controls"></audio>
+Clip 01. <audio src="files/Cosby.mp3" controls="controls"></audio>
 
-Clip 2. <audio src="files/ER.mp3" controls="controls"></audio>
+Clip 02. <audio src="files/ER.mp3" controls="controls"></audio>
 
-Clip 3. <audio src="files/Saved.mp3" controls="controls"></audio>
+Clip 03. <audio src="files/Saved.mp3" controls="controls"></audio>
 
-Clip 4. <audio src="files/Law.mp3" controls="controls"></audio>
+Clip 04. <audio src="files/Law.mp3" controls="controls"></audio>
 
-Clip 5. <audio src="files/MacGyver.mp3" controls="controls"></audio>
+Clip 05. <audio src="files/MacGyver.mp3" controls="controls"></audio>
 
 ---
 # Round 5
 Music clips – theme tunes for 80s/90s shows
 
-Clip 6. <audio src="files/Twin.mp3" controls="controls"></audio>
+Clip 06. <audio src="files/Twin.mp3" controls="controls"></audio>
 
-Clip 7. <audio src="files/Alf.mp3" controls="controls"></audio>
+Clip 07. <audio src="files/Alf.mp3" controls="controls"></audio>
 
-Clip 8. <audio src="files/21.mp3" controls="controls"></audio>
+Clip 08. <audio src="files/21.mp3" controls="controls"></audio>
 
-Clip 9. <audio src="files/Knight.mp3" controls="controls"></audio>
+Clip 09. <audio src="files/Knight.mp3" controls="controls"></audio>
 
 Clip 10. <audio src="files/Matlock.mp3" controls="controls"></audio>
 
@@ -326,46 +326,54 @@ class: center, middle
 # Music clips – theme tunes for 80s/90s shows
 ---
 # Round 5: Answer
-1. **The Cosby Show**
-2. **ER**
-3. **Saved by the Bell**
-4. **Law and Order SVU**
-5. **MacGyver**
-6. **Twin Peaks**
-7. **Alf**
-8. **21 Jump Street**
-9. **Knight Rider**
+01. **The Cosby Show**
+02. **ER**
+03. **Saved by the Bell**
+04. **Law and Order SVU**
+05. **MacGyver**
+06. **Twin Peaks**
+07. **Alf**
+08. **21 Jump Street**
+09. **Knight Rider**
 10. **Matlock**
 ---
+exclude: true
 class: center, middle
 # Round 6: Mary-Lou MacDonald, Ronald McDonald or both
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F6emGGwGqhI"></iframe>
 ---
+exclude: true
 # Mary-Lou MacDonald, Ronald McDonald or both
 
 # 1. Likes burgers
 ---
+exclude: true
 # Mary-Lou MacDonald, Ronald McDonald or both
 
 # 2. Likes Supermacs
 ---
+exclude: true
 # Mary-Lou MacDonald, Ronald McDonald or both
 
 # 3. Had covid-19
 ---
+exclude: true
 # Mary-Lou MacDonald, Ronald McDonald or both
 
 # 4. Born in 1963
 ---
+exclude: true
 # Mary-Lou MacDonald, Ronald McDonald or both
 
 # 5. Dances the Macarena
 ---
+exclude: true
 class: center, middle
 # Round 6: Answer
 # Mary-Lou MacDonald, Ronald McDonald or both
 ---
+exclude: true
 # Mary-Lou MacDonald, Ronald McDonald or both
 1. Likes burgers: **both** 
 2. Likes Supermacs: **Mary-Lou **
@@ -374,6 +382,7 @@ class: center, middle
 5. Dances the Macarena: **both**
 
 ---
+exclude: true
 # Mary-Lou MacDonald, Ronald McDonald or both
 
 Dances the Macarena: **both** because ...
@@ -385,7 +394,7 @@ and 2...
 <iframe width="700" height="500" src="https://independent.bbvms.com/view/embed/3649137.html"></iframe>
 ---
 class: center, middle
-# Round 7: All about Richie Kavanagh
+# Round 6: All about Richie Kavanagh
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Uu_4PdgiMNU"></iframe>
 ---
@@ -410,10 +419,10 @@ class: center, middle
 # 5. Finish the title of this Kavanagh song: “I love the smell of ...” 
 ---
 class: center, middle
-# Round 7: Answers
+# Round 6: Answers
 # All about Richie Kavanagh
 ---
-# Round 7: Answers
+# Round 6: Answers
 1. In which Irish county did Richie find Walt Disney’s ancestors grave? **Answer: Carlow**
 2. Finish the sentence by Richie: “Did You Ever Get A Ride On ...” **Answer: Tractor**
 3. Which Richie song was banned from several BBC radio stations? **Answer: “Aon Focal Eile” **
@@ -421,7 +430,7 @@ class: center, middle
 5. Finish the title of this Kavanagh song: “I love the smell of ...” **Answer: Silage**
 ---
 class: center, middle
-# Round 8: Trump said it, or did he?
+# Round 7: Trump said it, or did he?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5uPoDNEn3I0"></iframe>
 ---
@@ -466,10 +475,10 @@ class: center, middle
 # 10. "Smoking kills. If you're killed, you've lost an important part of your life"
 ---
 class: center, middle
-# Round 8: Answers
+# Round 7: Answers
 # Trump said it, or did he?
 ---
-# Round 8: Answers
+# Round 7: Answers
 
 1. “Nobody has better respect for intelligence than Donald Trump” **Donald Trump**
 2. “The beauty of me is that I’m very rich” **Donald Trump**
