@@ -1,5 +1,12 @@
 ## The great Irish quiz battle
 
+<!--
+refs
+- https://github.com/yihui/xaringan/wiki/Deploy-Slides-Online
+- https://github.com/tcgriffith/xaringan_gh
+- https://community.rstudio.com/t/deploy-xaringan-slides-to-github-pages/16459
+-->
+
 ### Link
 
 [slide link](/irish_quiz.html)
