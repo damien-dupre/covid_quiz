@@ -1,0 +1,473 @@
+---
+title: "The grand Irish quiz battle"
+subtitle: ""
+author: "Claire and Damien"
+output:
+  xaringan::moon_reader:
+    css: ["default", "./libs/xaringan_custom.css"]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+    seal: false
+---
+
+class: center, middle
+
+# The grand Irish quiz battle
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q1sVcutWn_I"></iframe>
+---
+class: center, middle
+# Round 1: Pop Culture
+
+---
+# Pop Culture
+
+# 1. Who played the character Rizzo in the 1978 movie Grease?
+
+---
+# Pop Culture
+
+# 2. Many would agree that the Kardashian family’s fame stems from Kim’s x rated sex tape released accidentally on purpose in 2007. Who was her partner in the video?
+
+---
+# Pop Culture
+
+# 3. In the recent smash-hit Netflix documentary Tiger King, what song did Joe Exotic sing about Carole Baskin's dead husband?
+---
+# Pop Culture
+
+# 4. Which one-hit wonder band had a 1995 hit named “Breakfast at Tiffany’s”?
+---
+# Pop Culture
+
+# 5. Gary Coleman and Todd Bridges were the main characters in which TV show? 
+---
+# Pop Culture
+
+# 6. Which American country singer performed at Folsom Prison?
+---
+# Pop Culture
+
+# 7. Take That teamed up with which 1960s Scottish singer on ‘Relight My Fire’ in 1993? 
+---
+# Pop Culture
+
+# 8. Terry Gene Bollea is better known as which sportsman/entertainer?
+---
+# Pop Culture
+
+# 9. Who is Spiderman’s main love interest?
+---
+# Pop Culture
+
+# 10. What is B.A Baracus from the A Team afraid of?
+---
+class: center, middle
+# Round 1: Answers
+# Pop Culture
+---
+# Pop Culture: Answers
+
+1. Who played the character Rizzo in the 1978 movie Grease? **Answer: Stockard Channing**
+2. Many would agree that the Kardashian family’s fame stems from Kim’s x rated sex tape released accidentally on purpose in 2007. Who was her partner in the video? **Answer: Ray J**
+3. In the recent smash-hit Netflix documentary Tiger King, what song did Joe Exotic sing about Carole Baskin's dead husband? **Answer: “Here Kitty Kitty”**
+4. Which one-hit wonder band had a 1995 hit named “Breakfast at Tiffany’s”? **Answer: Deep Blue Something**
+5. Gary Coleman and Todd Bridges were the main characters in which TV show? **Answer: Different Strokes**
+6. Which American country singer performed at Folsom Prison? **Answer: Johnny Cash**
+7. Take That teamed up with which 1960s Scottish singer on ‘Relight My Fire’ in 1993? **Answer: Lulu**
+8. Terry Gene Bollea is better known as which sportsman/entertainer? **Answer: Hulk Hogan**
+9. Who is Spiderman’s main love interest? **Answer: Mary Jane Watson**
+10. What is B.A Baracus from the A Team afraid of? **Answer: flying**
+
+---
+class: center, middle
+# Round 2: Corona Time
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ctF5aMV05kM"></iframe>
+---
+# Corona Time
+
+# 1. Name this animal, now being blamed as a possible source of the coronavirus pandemic.
+
+```{r echo=FALSE, out.width = '90%'}
+knitr::include_graphics("https://img.rasset.ie/00140904-1600.jpg")
+```
+---
+# Corona Time
+
+# 2. The head of the WHO is a man from Ethopia. Name any of the 3 parts of his name.
+
+```{r echo=FALSE, out.width = '90%'}
+knitr::include_graphics("https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F2f84799e-58ea-11ea-8d8f-51ad578bbcfe.jpg?crop=4313%2C2426%2C108%2C513&resize=1180")
+```
+---
+# Corona Time
+
+# 3. Chloroquine is believed by some as effective in treating Covd 19. For what disease is this drug more commonly used? 
+---
+# Corona Time
+
+# 4. Who was the female lead in the 1995 movie Outbreak?
+---
+# Corona Time
+
+# 5. What letter and number represents the basic reproduction number of an infection? 
+---
+# Corona Time
+
+# 6. What is the name of the country house in which Boris Johnson recovered from the virus?
+---
+# Corona Time
+
+# 7. China banned which fictional character after mocking comparisons were made between the character and President Xi Jinping? 
+---
+# Corona Time
+
+# 8. Tom Hanks was an early celebrity victim of the coronavirus. Tom has a Best Actor Oscar for his role in Forrest Gump. For which other movie did he receive the Best Actor award? 
+---
+# Corona Time
+
+# 9. Andrea Bocelli performed his Music for Hope concert on Easter Sunday 2020 in which deserted Italian building? 
+---
+# Corona Time
+
+# 10. Bats are said to have played a role in the origin of the coronavirus. In the Batman franchise, what is the name of the psychiatric asylum for the Gotham City area? 
+---
+class: center, middle
+# Round 2: Answers
+# Corona Time
+---
+# Round 2: Answers
+
+1. Name this animal, now being blamed as a possible source of the coronavirus pandemic. Send pic. **Answer: Pangolin**
+2. The head of the WHO is a man from Ethopia. Name any of the 3 parts of his name. **Answer: Tedros Adhanom Ghebreyesus.**
+3. Chloroquine is believed by some as effective in treating Covd 19. For what disease is this drug more commonly used? **Answer: malaria**
+4. Who was the female lead in the 1995 movie Outbreak? **Answer: Rene Russo**
+5. What letter and number represents the basic reproduction number of an infection? **Answer: R0**
+6. What is the name of the country house in which Boris Johnson recovered from the virus? **Answer: Chequers**
+7. China banned which fictional character after mocking comparisons were made between the character and President Xi Jinping? **Answer: Winnie the Pooh**
+8. Tom Hanks was an early celebrity victim of the coronavirus. Tom has a Best Actor Oscar for his role in Forrest Gump. For which other movie did he receive the Best Actor award? **Answer: Philadelphia**
+9. Andrea Bocelli performed his Music for Hope concert on Easter Sunday 2020 in which deserted Italian building? Answer: **The Duomo di Milano (Milan Cathedral)**
+10. Bats are said to have played a role in the origin of the coronavirus. In the Batman franchise, what is the name of the psychiatric asylum for the Gotham City area? **Answer: Arkham Asylum**
+---
+# Round 3
+# History: Irish and British
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W2rRzvsZJfM"></iframe>
+---
+# History: Irish and British
+
+# 1. In what year was the Anglo-Irish Treaty of Independence signed?
+---
+# History: Irish and British
+
+# 2. Who was the UK Prime Minister at the time?
+---
+# History: Irish and British
+
+# 3. On how many occasions has Ireland won the Eurovision? 
+---
+# History: Irish and British
+
+# 4. Emmeline Pankhurst was a leading figure with which movement?
+---
+# History: Irish and British
+
+# 5. Who was Ireland’s first President?
+---
+# History: Irish and British
+
+# 6. Which battle took place in 1066 between the English and the French? 
+---
+# History: Irish and British
+
+# 7. In which year was Maynooth College founded?
+---
+# History: Irish and British
+
+# 8. Yanks have been upsetting the monarchy long before Megan Markle. Edward VIII abdicated in 1936 due to his desire to marry an American divorcee. What was her name? 
+---
+# History: Irish and British
+
+# 9. Which county has won the most all Ireland senior hurling championships?
+---
+# History: Irish and British
+
+# 10. Ireland beat England 43-13 in a rugby match in2007. What was historically significant about the occasion? 
+---
+class: center, middle
+# Round 3: Answers
+# History: Irish and British
+---
+# Round 3: Answers
+
+1. In what year was the Anglo-Irish Treaty of Independence signed? **Answer: 1921**
+2. Who was the UK Prime Minister at the time? **Answer: David Lloyd George**
+3. On how many occasions has Ireland won the Eurovision? **Answer: 7 (Dana, Johnny Logan x 2, Linda Martin, Niamh Kavanagh, Paul Harrington and Charlie McGettigan and Eimear Quinn)**
+4. Emmeline Pankhurst was a leading figure with which movement? **Answer: Suffragette/getting women the vote**
+5. Who was Ireland’s first President? **Answer: Douglas Hyde**
+6. Which battle took place in 1066 between the English and the French? **Answer: the Battle of Hastings**
+7. In which year was Maynooth College founded? **Answer: 1795**
+8. Yanks have been upsetting the monarchy long before Megan Markle. Edward VIII abdicated in 1936 due to his desire to marry an American divorcee. What was her name? **Answer: Wallis Simpson**
+9. Which county has won the most all Ireland senior hurling championships? **Answer: Kilkenny (36)**
+10. Ireland beat England 43-13 in a rugby match in2007. What was historically significant about the occasion? **Answer: Match played in Croke Park**
+---
+class: center, middle
+# Round 4: Food and Drink
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VDiiDOl5CKs"></iframe>
+---
+# Food and Drink
+
+# 1. Which Canadian dish is made with French fries and cheese curds topped with a light brown gravy?
+---
+# Food and Drink
+
+# 2. In North America, it is usually called “Arugula.” What is this food?
+---
+# Food and Drink
+
+# 3. People sometimes call for the boycotting of Nutella over which of its ingredients? 
+---
+# Food and Drink
+
+# 4. Bourbon whiskey distilleries are mainly associated with which American state? 
+---
+# Food and Drink
+
+# 5. What is the main flavour in the alcohol Cointreau? 
+---
+# Food and Drink
+
+# 6. What is the name of the traditional English dish made from meat from a pig's or calf's head that is cooked and pressed in a pot with jelly? It is also known as “head cheese”.
+---
+# Food and Drink
+
+# 7. What is dulse or dillisk? 
+---
+# Food and Drink
+
+# 8. The Scoville scale is used to measure what? 
+---
+# Food and Drink
+
+# 9. What word, beginning with a K, describes a Korean dish of salted and fermented vegetables made with seasonings including garlic, ginger and spring onions? 
+---
+# Food and Drink
+
+# 10. Where in Ireland was Harp Lager first brewed? 
+---
+class: center, middle
+# Round 4: Answers
+# Food and Drink
+---
+# Round 4: Answers
+
+1. Which Canadian dish is made with French fries and cheese curds topped with a light brown gravy? **Answer: poutine**
+2. In North America, it is usually called “Arugula” What is this food? **Answer: rocket**
+3. People sometimes call for the boycotting of Nutella over which of its ingredients? **Answer: palm oil**
+4. Bourbon whiskey distilleries are mainly associated with which American state? **Answer: Kentucky**
+5. What is the main flavour in the alcohol Cointreau? **Answer: orange**
+6. What is the name of the traditional English dish made from meat from a pig's or calf's head that is cooked and pressed in a pot with jelly? It is also known as “head cheese”. **Answer: brawn**
+7. What is dulse or dillisk? **Answer: edible seaweed or sea vegetable**
+8. The Scoville scale is used to measure what? **Answer: the heat of chillies**
+9. What word, beginning with a K, describes a Korean dish of salted and fermented vegetables made with seasonings including garlic, ginger and spring onions? **Answer: kimchi**
+10. Where in Ireland was Harp Lager first brewed? **Answer: Dundalk**
+---
+# Round 5
+Music clips – theme tunes for 80s/90s shows
+
+Clip 1. <audio src="files/Cosby.mp3" controls="controls"></audio>
+
+Clip 2. <audio src="files/ER.mp3" controls="controls"></audio>
+
+Clip 3. <audio src="files/Saved.mp3" controls="controls"></audio>
+
+Clip 4. <audio src="files/Law.mp3" controls="controls"></audio>
+
+Clip 5. <audio src="files/MacGyver.mp3" controls="controls"></audio>
+
+---
+# Round 5
+Music clips – theme tunes for 80s/90s shows
+
+Clip 6. <audio src="files/Twin.mp3" controls="controls"></audio>
+
+Clip 7. <audio src="files/Alf.mp3" controls="controls"></audio>
+
+Clip 8. <audio src="files/21.mp3" controls="controls"></audio>
+
+Clip 9. <audio src="files/Knight.mp3" controls="controls"></audio>
+
+Clip 10. <audio src="files/Matlock.mp3" controls="controls"></audio>
+
+---
+class: center, middle
+# Round 5: Answer
+# Music clips – theme tunes for 80s/90s shows
+---
+# Round 5: Answer
+1. **The Cosby Show**
+2. **ER**
+3. **Saved by the Bell**
+4. **Law and Order SVU**
+5. **MacGyver**
+6. **Twin Peaks**
+7. **Alf**
+8. **21 Jump Street**
+9. **Knight Rider**
+10. **Matlock**
+---
+class: center, middle
+# Round 6: Mary-Lou MacDonald, Ronald McDonald or both
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F6emGGwGqhI"></iframe>
+---
+# Mary-Lou MacDonald, Ronald McDonald or both
+
+# 1. Likes burgers
+---
+# Mary-Lou MacDonald, Ronald McDonald or both
+
+# 2. Likes Supermacs
+---
+# Mary-Lou MacDonald, Ronald McDonald or both
+
+# 3. Had covid-19
+---
+# Mary-Lou MacDonald, Ronald McDonald or both
+
+# 4. Born in 1963
+---
+# Mary-Lou MacDonald, Ronald McDonald or both
+
+# 5. Dances the Macarena
+---
+class: center, middle
+# Round 6: Answer
+# Mary-Lou MacDonald, Ronald McDonald or both
+---
+# Mary-Lou MacDonald, Ronald McDonald or both
+1. Likes burgers: **both** 
+2. Likes Supermacs: **Mary-Lou **
+3. Had covid-19: **Mary-Lou **
+4. Born in 1963: **Ronald **
+5. Dances the Macarena: **both**
+
+---
+# Mary-Lou MacDonald, Ronald McDonald or both
+
+Dances the Macarena: **both** because ...
+
+1. the favorite danse of Ronald McDonald is the Big Macarena
+
+and 2...
+
+<iframe width="700" height="500" src="https://independent.bbvms.com/view/embed/3649137.html"></iframe>
+---
+class: center, middle
+# Round 7: All about Richie Kavanagh
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Uu_4PdgiMNU"></iframe>
+---
+# All about Richie Kavanagh
+
+# 1. In which Irish county did Richie find Mickey Mouse’s ancestors grave?
+---
+# All about Richie Kavanagh
+
+# 2. Finish the sentence by Richie: “Did You Ever Get A Ride On ...”
+---
+# All about Richie Kavanagh
+
+# 3. Which Richie song was banned from several BBC radio stations?
+---
+# All about Richie Kavanagh
+
+# 4. Finish the sentence by Richie: “Wud her mobile phone she gets such a trill, But her smile disappears when ...?
+---
+# All about Richie Kavanagh
+
+# 5. Finish the title of this Kavanagh song: “I love the smell of ...” 
+---
+class: center, middle
+# Round 7: Answers
+# All about Richie Kavanagh
+---
+# Round 7: Answers
+1. In which Irish county did Richie find Walt Disney’s ancestors grave? **Answer: Carlow**
+2. Finish the sentence by Richie: “Did You Ever Get A Ride On ...” **Answer: Tractor**
+3. Which Richie song was banned from several BBC radio stations? **Answer: “Aon Focal Eile” **
+4. Finish the sentence by Richie: “Wud her mobile phone she gets such a trill, But her smile disappears when ...? **Answer: she gets the bill **
+5. Finish the title of this Kavanagh song: “I love the smell of ...” **Answer: Silage**
+---
+class: center, middle
+# Round 8: Trump said it, or did he?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5uPoDNEn3I0"></iframe>
+---
+# Trump said it, or did he?
+
+# 1. “Nobody has better respect for intelligence than Donald Trump”
+---
+# Trump said it, or did he?
+
+# 2. “The beauty of me is that I’m very rich”
+---
+# Trump said it, or did he?
+
+# 3. “I feel like I’m too busy writing history to read it”
+---
+# Trump said it, or did he?
+
+# 4. “If you learn from your mistakes, then I’m a fucking genius”
+---
+# Trump said it, or did he?
+
+# 5. “I was never really good at anything except for the ability to learn”
+---
+# Trump said it, or did he?
+
+# 6. "I actually don't like thinking. I think people think I like to think a lot. And I don't. I do not like to think at all."
+---
+# Trump said it, or did he?
+
+# 7. “What luck for governments that the people are stupid”
+---
+# Trump said it, or did he?
+
+# 8. “If you tell a big enough lie and tell it frequently enough, it will be believed.”
+---
+# Trump said it, or did he?
+
+# 9. “I get to go to overseas places, like Canada”
+---
+# Trump said it, or did he?
+
+# 10. "Smoking kills. If you're killed, you've lost an important part of your life"
+---
+class: center, middle
+# Round 8: Answers
+# Trump said it, or did he?
+---
+# Round 8: Answers
+
+1. “Nobody has better respect for intelligence than Donald Trump” **Donald Trump**
+2. “The beauty of me is that I’m very rich” **Donald Trump**
+3. “I feel like I’m too busy writing history to read it” **Kanye West**
+4. “If you learn from your mistakes, then I’m a fucking genius” **Kanye West**
+5. “I was never really good at anything except for the ability to learn” **Kanye West**
+6. "I actually don't like thinking. I think people think I like to think a lot. And I don't. I do not like to think at all.“ **Kanye West**
+7. “What luck for governments that the people are stupid” **Adolf Hitler**
+8. “If you tell a big enough lie and tell it frequently enough, it will be believed.” **Adolf Hitler**
+9. “I get to go to overseas places, like Canada” **Britney Spears**
+10. "Smoking kills. If you're killed, you've lost an important part of your life“ **Brook Sheilds**
+
+---
+class: center, middle
+
+# The grand Irish quiz battle
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b9434BoGkNQ"></iframe>
